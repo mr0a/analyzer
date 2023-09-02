@@ -1,0 +1,4 @@
+aiohttp==3.8.5
+git+https://github.com/kernc/backtesting.py.git
+TA-Lib
+tqdm
